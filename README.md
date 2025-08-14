@@ -7,7 +7,7 @@
 
 ---
 
-I'm an undergraduate researcher applying neural networks to challenges in high-energy physics, and I love building hands-on projects to explore AI concepts. My goal is to leverage computational skills to solve complex scientific problems.
+I love building hands-on projects to explore AI concepts. My goal is to leverage computational skills to solve complex scientific problems.
 
 - 🔭 I’m currently building out my **[Chess AI project](https://github.com/fadil-uddin/Chess-AI)**, trained on self-play data and deployed with Docker.
 - 🌱 I’m currently deepening my skills in **PyTorch, MLOps, and Physics-Informed Neural Networks (PINNs)**.
