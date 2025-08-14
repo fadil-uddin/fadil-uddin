@@ -44,12 +44,3 @@ I love building hands-on projects to explore AI concepts. My goal is to leverage
   </a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadil-uddin&show_icons=true&theme=tokyonight&rank_icon=github" alt="Fadil's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-uddin&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
