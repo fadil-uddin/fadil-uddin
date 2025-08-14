@@ -10,10 +10,10 @@
 I love building hands-on projects to explore AI concepts. My goal is to leverage computational skills to solve complex scientific problems.
 
 - 🔭 I’m currently building out my **[Chess AI project](https://github.com/fadil-uddin/Chess-AI)**, trained on self-play data and deployed with Docker.
-- 🌱 I’m currently deepening my skills in **PyTorch, MLOps, and Physics-Informed Neural Networks (PINNs)**.
+- 🌱 I’m currently deepening my skills in **PyTorch, and Physics-Informed Neural Networks (PINNs)**.
 - 👯 I’m looking to collaborate on open-source projects at the intersection of **AI, physics, and data analysis**.
 - 💬 Ask me about **Python, PyTorch, applying ML to research, or anything related to Chess!**
-- 📫 How to reach me: **uddinsy@tcd.ie**
+- 📫 How to reach me: **syedfadiluddin@gmail.com**
 - ⚡ Fun fact: I'm an active member of the Trinity Chess Society, a passion which directly inspired me to build my own Chess AI from scratch.
 
 ---
