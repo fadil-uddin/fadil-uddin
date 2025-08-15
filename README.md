@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Syed Fadil Uddin 👋</h1>
-<h3 align="center">A Theoretical Physics Student at Trinity College Dublin with a passion for Machine Learning and AI.</h3>
+<h3 align="center">A Theoretical Physics Student at Trinity College Dublin with a passion for Machine Learning, AI, Probability and Statisitcs.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-fadil-uddin-081417268/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="syedfadil" /></a>
@@ -7,7 +7,7 @@
 
 ---
 
-I love building hands-on projects to explore AI concepts. My goal is to leverage computational skills to solve complex scientific problems.
+I have always been fascinated with the idea of predicting events based on statistical models. I love building hands-on projects to explore AI concepts and my goal is to leverage computational skills to solve complex scientific problems.
 
 - 🔭 I’m currently building out my **[Chess AI project](https://github.com/fadil-uddin/Chess-AI)**, trained on self-play data and deployed with Docker.
 - 🌱 I’m currently deepening my skills in **PyTorch, and Physics-Informed Neural Networks (PINNs)**.
