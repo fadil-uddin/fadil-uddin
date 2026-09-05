@@ -24,8 +24,6 @@ My work currently focuses on:
 - machine learning and scientific computing
 - data analysis and visualisation
 
-I enjoy building projects from first principles, testing them carefully, and using numerical experiments to understand how mathematical models behave in practice.
-
 ---
 
 ## Featured Projects
